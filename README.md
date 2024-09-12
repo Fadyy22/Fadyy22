@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fady Alaa</h1>
 <h3 align="center">A passionate Backend Engineer from Egypt</h3>
 
-- 🔭 I’m currently working on [Vonture](https://github.com/Fadyy22/vonture)
+- 🔭 I’m currently learning React.
 
 - 💬 Ask me about **Node.js, Express.js, DSA, Databases, Database Design, and more CS topics**
 
