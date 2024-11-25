@@ -82,7 +82,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Fadyy22/Fadyy22/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Fadyy22/Fadyy22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 
