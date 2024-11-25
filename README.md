@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ **Crafting code since 2021** (and squashing bugs along the way)<br>📚 Currently diving deep into **Database Internals**<br>🎯 Goals: Build amazing backend applications that scale 🚀</p>
+<p align="left">✨ <b>Crafting code since 2021</b> (and squashing bugs along the way)<br>📚 Currently diving deep into <b>Database Internals</b><br>🎯 Goals: Build amazing backend applications that scale 🚀</p>
 
 ###
 
