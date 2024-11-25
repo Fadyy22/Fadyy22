@@ -1,11 +1,16 @@
-<h2 align="left">Hi 👋! My name is Fady and I'm a Software Engineer from Egypt.</h2>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fadyy22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fadyy22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h3 align="left">My name is Fady and I'm a Software Engineer from Egypt.</h3>
+
+###
+
+<h2 align="left">🧑‍💻 About me</h2>
+
+###
+
+<p align="left">✨ **Crafting code since 2021** (and squashing bugs along the way)<br>📚 Currently diving deep into **Database Internals**<br>🎯 Goals: Build amazing backend applications that scale 🚀</p>
 
 ###
 
