@@ -16,8 +16,9 @@
   📚 Currently diving deep into <b>Database Internals</b><br>
   🎯 Goals: Build amazing backend applications that scale 🚀<br>
   <br>
-  Feel free to check out my projects and let's connect! 😊<br>
+  Feel free to check out my projects and let's connect! 😊
 </p>
+<br>
 
 ###
 
