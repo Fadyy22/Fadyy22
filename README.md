@@ -3,6 +3,7 @@
 ###
 
 <h3 align="left">My name is Fady and I'm a Software Engineer from Egypt.</h3>
+<br>
 
 ###
 
@@ -10,11 +11,17 @@
 
 ###
 
-<p align="left">✨ <b>Crafting code since 2021</b> (and squashing bugs along the way)<br>📚 Currently diving deep into <b>Database Internals</b><br>🎯 Goals: Build amazing backend applications that scale 🚀</p>
+<p align="left">
+  ✨ <b>Crafting code since 2021</b> (and squashing bugs along the way)<br>
+  📚 Currently diving deep into <b>Database Internals</b><br>
+  🎯 Goals: Build amazing backend applications that scale 🚀<br>
+  <br>
+  Feel free to check out my projects and let's connect! 😊<br>
+</p>
 
 ###
 
-<h3 align="left">🛠️ I code with</h3>
+<h2 align="left">🛠️ I code with</h2>
 
 ###
 
@@ -69,10 +76,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+<br>
 
 ###
 
-<h3 align="left">📩 Contact me at</h3>
+<h2 align="left">📩 Contact me</h2>
 
 ###
 
